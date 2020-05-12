@@ -1,0 +1,50 @@
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csprojAssemblyReference.cache
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmPrincipal.resources
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Properties.Resources.resources
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csproj.GenerateResource.cache
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csproj.CoreCompileInputs.cache
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.exe.config
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.exe
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.pdb
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.exe
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.pdb
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmCadUsuario.resources
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\bin\Debug\System.Data.SQLite.dll
+C:\Users\gu-ol\source\repos\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csproj.CopyComplete
+H:\Fatec\LPVIII\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.exe.config
+H:\Fatec\LPVIII\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.exe
+H:\Fatec\LPVIII\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.pdb
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.exe.config
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.exe
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.pdb
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.exe
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.pdb
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\bin\Debug\System.Data.SQLite.dll
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.AboutBoxLoja.resources
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmCadUsuario.resources
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmLogin.resources
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmPrincipal.resources
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Properties.Resources.resources
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csproj.GenerateResource.Cache
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmCadLogin.resources
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmPesqLogin.resources
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csprojAssemblyReference.cache
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.AboutBoxLoja.resources
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmCadLogin.resources
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmCadUsuario.resources
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmLogin.resources
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmPesqLogin.resources
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmPrincipal.resources
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csproj.GenerateResource.cache
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csproj.CoreCompileInputs.cache
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\bin\Debug\System.Data.SQLite.dll
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.csproj.CopyComplete
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Properties.Resources.resources
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.exe.config
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.exe
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\bin\Debug\Sistema Projeto.pdb
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.exe
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema Projeto.pdb
+D:\gu-ol\Área de Trabalho\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmPesqCliente.resources
+C:\Users\Policial\Desktop\Projeto_ze\Sistema Projeto\Sistema Projeto\obj\Debug\Sistema_Projeto.Apresentacao.FrmPesqCliente.resources
